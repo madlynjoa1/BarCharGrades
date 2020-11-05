@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BarCharGrades</string>
+    <string name="total_number_of_students">Total Number of students:</string>
+    <string name="number">Number</string>
+    <string name="student_a">Student: A</string>
+    <string name="grade">Grade</string>
+    <string name="student_e">Student: E</string>
+    <string name="calculate">Calculate</string>
+    <string name="student_f">Student: F</string>
+    <string name="student_d">Student: D</string>
+    <string name="student_c">Student: C</string>
+    <string name="student_b">Student: B</string>
+</resources>
